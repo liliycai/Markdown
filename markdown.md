@@ -11,7 +11,9 @@
 ~~~
 ## 三、下图为git的六行配置代码图片
 
-   ![节点](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fi1.chexun.net%2Fimages%2F2020%2F1118%2F48401%2Fnews_0_0_12666D675592B42B573DAD021B1EDF2C.jpg&refer=http%3A%2F%2Fi1.chexun.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1642944702&t=ab3a78a62debb4674d8d098f70cda43a)
+   ![节点](./images/1.png)
+      ![节点](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fi1.chexun.net%2Fimages%2F2020%2F1118%2F48401%2Fnews_0_0_12666D675592B42B573DAD021B1EDF2C.jpg&refer=http%3A%2F%2Fi1.chexun.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1642944702&t=ab3a78a62debb4674d8d098f70cda43a)
+
 ## 四、我喜欢的明星有
 1. 赵丽颖
 2. 肖战
